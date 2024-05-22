@@ -1,0 +1,1 @@
+Negyediknek a regisztrálás és ahhoz tatózó adatbázois műveleteket, illetve az elérhwtőség fület készítettem el.

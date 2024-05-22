@@ -1,0 +1,1 @@
+Az első lépésben az alapoldal és ahhoz tatozó megjelenést készítettem el.

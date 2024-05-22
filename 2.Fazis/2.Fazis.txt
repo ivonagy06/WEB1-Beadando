@@ -1,0 +1,1 @@
+Második lépésben az üzenetküldéshez szükséges alapokat készítettem el.
